@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyTaskFive</string>
+    <string name="add_person">Add Info</string>
+    <string name="delete_data">Delete</string>
+    <string name="logout">Sign-out</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="name">Name :</string>
+    <string name="phone">Phone :</string>
+    <string name="email">Email :</string>
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Phone</string>
+    <string name="user_name_login">UserName</string>
+    <string name="user_password_login">Password</string>
+    <string name="btn_login">Login</string>
+</resources>
